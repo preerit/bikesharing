@@ -1,4 +1,8 @@
 # bikesharing
+
+Here is the link for Tableau dashboard:
+[link to dashboard](https://public.tableau.com/authoring/Challenge14_Bikeshare/NYCBikeTripAnalysis#1)
+
 ## Overview of the analysis: Explain the purpose of this analysis.
 Exploring the key aspects of a bike share business called Citi Bike in NYC to start a company of similar nature in Des Moines. Citi Bike helps people rent bikes to roam around the city. Analysis like number of riders, peak hours, top starting and ending locations, gender based analysis and age based analyis are done to convince the angel investors to fund the company. 
 
